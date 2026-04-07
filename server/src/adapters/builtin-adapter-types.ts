@@ -10,6 +10,7 @@ export const BUILTIN_ADAPTER_TYPES = new Set([
   "opencode_local",
   "pi_local",
   "hermes_local",
+  "letta_code_local",
   "process",
   "http",
 ]);
